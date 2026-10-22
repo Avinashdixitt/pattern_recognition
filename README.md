@@ -1,1 +1,1 @@
-# patternrecognation
+# patternrecognition
